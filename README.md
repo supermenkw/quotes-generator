@@ -1,5 +1,5 @@
 # quotes-generator
-🏕️ freecodecamp homework
+🏕️ Generate Random Quotes.
 
 # Pen
 https://codepen.io/supermenkw/pen/yLeNmWv
