@@ -1,5 +1,5 @@
 # quotes-generator
-🏕️ Generate Random Quotes.
+Generate Random Quotes.
 
 # Pen
 https://codepen.io/supermenkw/pen/yLeNmWv
